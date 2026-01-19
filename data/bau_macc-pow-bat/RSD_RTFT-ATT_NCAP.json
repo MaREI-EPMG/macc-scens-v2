@@ -1,0 +1,91 @@
+{
+  "name": "bau_macc-pow-bat",
+  "data": [
+    {
+      "seriesName": "R-RTFT-Att_D",
+      "seriesValues": [
+        [
+          2019,
+          0.0
+        ],
+        [
+          2020,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_E",
+      "seriesValues": [
+        [
+          2019,
+          23.6255781931024
+        ],
+        [
+          2020,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_F",
+      "seriesValues": [
+        [
+          2019,
+          3.88576265849558
+        ],
+        [
+          2020,
+          10.7336809059582
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_G",
+      "seriesValues": [
+        [
+          2019,
+          4.0388359763316
+        ],
+        [
+          2020,
+          11.333944155609
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_B3",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_C",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    }
+  ]
+}

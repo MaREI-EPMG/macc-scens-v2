@@ -1,0 +1,91 @@
+{
+  "name": "bau_macc-tra-truck_hev",
+  "data": [
+    {
+      "seriesName": "R-RTFT-Apt_D",
+      "seriesValues": [
+        [
+          2019,
+          0.0
+        ],
+        [
+          2020,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_E",
+      "seriesValues": [
+        [
+          2019,
+          6.33460295063339
+        ],
+        [
+          2020,
+          1.18102780043529
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_F",
+      "seriesValues": [
+        [
+          2019,
+          3.03141328401253
+        ],
+        [
+          2020,
+          0.565178992266764
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_G",
+      "seriesValues": [
+        [
+          2019,
+          3.73941303418875
+        ],
+        [
+          2020,
+          0.697178946766802
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_B3",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_C",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    }
+  ]
+}

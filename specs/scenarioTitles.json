@@ -1,4 +1,19 @@
 {
-  "no_mitigation": "No Mitigation",
-  "another_scenario": "Another Scenario"
+  "bau_macc": "BaU",
+  "bau_macc-new": "BaU-updated",
+  "bau_macc-pow-sol": "Solar PV",
+  "bau_macc-pow-won": "Wind onshore",
+  "bau_macc-pow-wof": "Wind offshore",
+  "bau_macc-biob": "Bioblending",
+  "bau_macc-bus_bev": "Electric busses",
+  "bau_macc-car_bev": "Electric cars",
+  "bau_macc-car_phev": "Plug-in hybrid cars",
+  "bau_macc-truck_bev": "Electric trucks",
+  "bau_macc-truck_fcv": "Fuel cell trucks",
+  "bau_macc-truck_hev": "Hybrid trucks",
+  "bau_macc-ind": "BaU industry sector",
+  "bau_macc-ind-elc": "Industry electrification 80%",
+  "bau_macc-srv": "BaU services sector",
+  "bau_macc-srv-HP": "Heat pumps for services sector",
+  "bau_macc-srv-DH": "District heating for services sector",
 }

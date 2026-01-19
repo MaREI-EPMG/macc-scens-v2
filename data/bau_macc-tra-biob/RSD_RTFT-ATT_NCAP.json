@@ -1,0 +1,83 @@
+{
+  "name": "bau_macc-tra-biob",
+  "data": [
+    {
+      "seriesName": "R-RTFT-Att_E",
+      "seriesValues": [
+        [
+          2019,
+          23.6394995094837
+        ],
+        [
+          2020,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_F",
+      "seriesValues": [
+        [
+          2019,
+          3.40866139301322
+        ],
+        [
+          2020,
+          11.2107820683998
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_G",
+      "seriesValues": [
+        [
+          2019,
+          4.51593766677287
+        ],
+        [
+          2020,
+          10.8568423912196
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_B3",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_C",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_D",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    }
+  ]
+}

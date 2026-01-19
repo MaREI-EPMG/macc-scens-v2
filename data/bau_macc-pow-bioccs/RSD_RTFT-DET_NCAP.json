@@ -1,0 +1,75 @@
+{
+  "name": "bau_macc-pow-bioccs",
+  "data": [
+    {
+      "seriesName": "R-RTFT-Det_F",
+      "seriesValues": [
+        [
+          2019,
+          0.0
+        ],
+        [
+          2020,
+          12.6119600189895
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Det_G",
+      "seriesValues": [
+        [
+          2019,
+          0.0
+        ],
+        [
+          2020,
+          22.8770305904392
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Det_B3",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Det_C",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Det_D",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Det_E",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    }
+  ]
+}

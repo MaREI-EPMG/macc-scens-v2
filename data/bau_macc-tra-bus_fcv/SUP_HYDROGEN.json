@@ -1,0 +1,31 @@
+{
+  "name": "bau_macc-tra-bus_fcv",
+  "data": [
+    {
+      "seriesName": "SH2PCELC_01",
+      "seriesValues": [
+        [
+          2021,
+          0.0
+        ],
+        [
+          2022,
+          0.0
+        ],
+        [
+          2051,
+          0.37367050045284894
+        ]
+      ]
+    },
+    {
+      "seriesName": "SH2PDELC_01",
+      "seriesValues": [
+        [
+          2051,
+          1.687064958237358e-05
+        ]
+      ]
+    }
+  ]
+}

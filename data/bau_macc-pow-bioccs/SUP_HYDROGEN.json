@@ -1,0 +1,27 @@
+{
+  "name": "bau_macc-pow-bioccs",
+  "data": [
+    {
+      "seriesName": "SH2PCELC_01",
+      "seriesValues": [
+        [
+          2021,
+          0.0
+        ],
+        [
+          2051,
+          0.37367698860433785
+        ]
+      ]
+    },
+    {
+      "seriesName": "SH2PDELC_01",
+      "seriesValues": [
+        [
+          2051,
+          2.4358939390306405e-06
+        ]
+      ]
+    }
+  ]
+}

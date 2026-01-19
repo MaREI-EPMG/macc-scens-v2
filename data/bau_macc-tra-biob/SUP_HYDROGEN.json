@@ -1,0 +1,27 @@
+{
+  "name": "bau_macc-tra-biob",
+  "data": [
+    {
+      "seriesName": "SH2PCELC_01",
+      "seriesValues": [
+        [
+          2021,
+          0.0
+        ],
+        [
+          2051,
+          0.37367740054266
+        ]
+      ]
+    },
+    {
+      "seriesName": "SH2PDELC_01",
+      "seriesValues": [
+        [
+          2051,
+          2.349236737952704e-06
+        ]
+      ]
+    }
+  ]
+}

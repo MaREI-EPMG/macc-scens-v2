@@ -1,0 +1,14 @@
+{
+  "name": "bau_macc-tra-biob",
+  "data": [
+    {
+      "seriesName": "TOTCO2",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    }
+  ]
+}
