@@ -2,7 +2,12 @@
   {
     "name": "mitigation_cb2024-300mt",
     "variants": [{ "name": "mitigation_cb2024-300mt", "specs": null }]
-  },{
+  },
+  {
+    "name": "mitigation_cb2024-300mt-upd",
+    "variants": [{ "name": "mitigation_cb2024-300mt-upd", "specs": null }]
+  },
+  {
     "name": "bau_macc",
     "variants": [{ "name": "bau_macc", "specs": null }]
   },
