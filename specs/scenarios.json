@@ -74,5 +74,13 @@
   {
     "name": "bau_macc-pow-wem-sol",
     "variants": [{ "name": "bau_macc-pow-wem-sol", "specs": null }]
+  },
+  {
+    "name": "bau_macc-pow-wem-won",
+    "variants": [{ "name": "bau_macc-pow-wem-won", "specs": null }]
+  },
+  {
+    "name": "bau_macc-pow-wem-wof",
+    "variants": [{ "name": "bau_macc-pow-wem-wof", "specs": null }]
   }
 ]
