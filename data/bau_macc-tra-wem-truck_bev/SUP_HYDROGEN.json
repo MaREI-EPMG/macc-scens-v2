@@ -1,0 +1,23 @@
+{
+  "name": "bau_macc-tra-wem-truck_bev",
+  "data": [
+    {
+      "seriesName": "SH2PCELC_01",
+      "seriesValues": [
+        [
+          2051,
+          0.3736766522977832
+        ]
+      ]
+    },
+    {
+      "seriesName": "SH2PDELC_01",
+      "seriesValues": [
+        [
+          2051,
+          4.6775424254889605e-06
+        ]
+      ]
+    }
+  ]
+}
