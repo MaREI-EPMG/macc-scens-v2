@@ -70,5 +70,9 @@
   {
     "name": "bau_macc-tra-wem-bus_bev",
     "variants": [{ "name": "bau_macc-tra-wem-bus_bev", "specs": null }]
+  },
+  {
+    "name": "bau_macc-pow-wem-sol",
+    "variants": [{ "name": "bau_macc-pow-wem-sol", "specs": null }]
   }
 ]
