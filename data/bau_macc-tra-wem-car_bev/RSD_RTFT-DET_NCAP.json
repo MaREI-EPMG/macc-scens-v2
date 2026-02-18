@@ -2,36 +2,6 @@
   "name": "bau_macc-tra-wem-car_bev",
   "data": [
     {
-      "seriesName": "R-RTFT-Det_D",
-      "seriesValues": [
-        [
-          2019,
-          0.0
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
-      "seriesName": "R-RTFT-Det_E",
-      "seriesValues": [
-        [
-          2019,
-          0.0
-        ],
-        [
-          2020,
-          0.0
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
       "seriesName": "R-RTFT-Det_F",
       "seriesValues": [
         [
@@ -40,7 +10,7 @@
         ],
         [
           2020,
-          12.6119602102387
+          12.6119599777551
         ],
         [
           2051,
@@ -57,7 +27,7 @@
         ],
         [
           2020,
-          22.8770307468286
+          22.8770305268072
         ],
         [
           2051,
@@ -76,6 +46,24 @@
     },
     {
       "seriesName": "R-RTFT-Det_C",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Det_D",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Det_E",
       "seriesValues": [
         [
           2051,
