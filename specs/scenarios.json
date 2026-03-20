@@ -82,5 +82,9 @@
   {
     "name": "bau_macc-pow-wem-wof",
     "variants": [{ "name": "bau_macc-pow-wem-wof", "specs": null }]
+  },
+  {
+    "name": "bau_macc-rsd-wem-dh",
+    "variants": [{ "name": "bau_macc-rsd-wem-dh", "specs": null }]
   }
 ]
