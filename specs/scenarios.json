@@ -86,5 +86,9 @@
   {
     "name": "bau_macc-rsd-wem-dh",
     "variants": [{ "name": "bau_macc-rsd-wem-dh", "specs": null }]
+  },
+  {
+    "name": "bau_macc-rsd-wem-rfhp",
+    "variants": [{ "name": "bau_macc-rsd-wem-rfhp", "specs": null }]
   }
 ]
