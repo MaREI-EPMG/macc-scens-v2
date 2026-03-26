@@ -90,5 +90,9 @@
   {
     "name": "bau_macc-rsd-wem-rfhp",
     "variants": [{ "name": "bau_macc-rsd-wem-rfhp", "specs": null }]
+  },
+  {
+    "name": "bau_macc-srv-wem-dh",
+    "variants": [{ "name": "bau_macc-srv-wem-dh", "specs": null }]
   }
 ]
