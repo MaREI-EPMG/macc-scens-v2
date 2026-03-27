@@ -60,12 +60,12 @@
     "variants": [{ "name": "bau_macc-rsd-rfhp", "specs": null }]
   },
   {
-    "name": "bau_macc-srv-dh",
-    "variants": [{ "name": "bau_macc-srv-dh", "specs": null }]
+    "name": "bau_macc-srv-DH",
+    "variants": [{ "name": "bau_macc-srv-DH", "specs": null }]
   },
   {
-    "name": "bau_macc-srv-hp",
-    "variants": [{ "name": "bau_macc-srv-hp", "specs": null }]
+    "name": "bau_macc-srv-HP",
+    "variants": [{ "name": "bau_macc-srv-HP", "specs": null }]
   },
   {
     "name": "bau_macc-tra-wem-car_phev",
