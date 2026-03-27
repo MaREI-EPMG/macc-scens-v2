@@ -2,57 +2,6 @@
   "name": "bau_macc-tra-truck_bev",
   "data": [
     {
-      "seriesName": "R-RTFT-Att_E",
-      "seriesValues": [
-        [
-          2019,
-          24.1893164952402
-        ],
-        [
-          2020,
-          0.0
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
-      "seriesName": "R-RTFT-Att_F",
-      "seriesValues": [
-        [
-          2019,
-          0.477030383390069
-        ],
-        [
-          2020,
-          14.1424130394666
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
-      "seriesName": "R-RTFT-Att_G",
-      "seriesValues": [
-        [
-          2019,
-          7.44756896272262
-        ],
-        [
-          2020,
-          7.92521106728705
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
       "seriesName": "R-RTFT-Att_B3",
       "seriesValues": [
         [
@@ -72,6 +21,33 @@
     },
     {
       "seriesName": "R-RTFT-Att_D",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_E",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_F",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Att_G",
       "seriesValues": [
         [
           2051,

@@ -2,57 +2,6 @@
   "name": "bau_macc-tra-car_bev",
   "data": [
     {
-      "seriesName": "R-RTFT-Apt_E",
-      "seriesValues": [
-        [
-          2019,
-          6.33460293895043
-        ],
-        [
-          2020,
-          1.18102769385007
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
-      "seriesName": "R-RTFT-Apt_F",
-      "seriesValues": [
-        [
-          2019,
-          3.03141337536589
-        ],
-        [
-          2020,
-          0.565178815113143
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
-      "seriesName": "R-RTFT-Apt_G",
-      "seriesValues": [
-        [
-          2019,
-          3.7394131271135
-        ],
-        [
-          2020,
-          0.697178767709024
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
       "seriesName": "R-RTFT-Apt_B3",
       "seriesValues": [
         [
@@ -72,6 +21,33 @@
     },
     {
       "seriesName": "R-RTFT-Apt_D",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_E",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_F",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_G",
       "seriesValues": [
         [
           2051,

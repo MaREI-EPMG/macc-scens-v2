@@ -2,40 +2,6 @@
   "name": "bau_macc-pow-sol",
   "data": [
     {
-      "seriesName": "R-RTFT-Det_F",
-      "seriesValues": [
-        [
-          2019,
-          0.0
-        ],
-        [
-          2020,
-          12.6119598232535
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
-      "seriesName": "R-RTFT-Det_G",
-      "seriesValues": [
-        [
-          2019,
-          0.0
-        ],
-        [
-          2020,
-          22.877030472817
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
       "seriesName": "R-RTFT-Det_B3",
       "seriesValues": [
         [
@@ -64,6 +30,24 @@
     },
     {
       "seriesName": "R-RTFT-Det_E",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Det_F",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Det_G",
       "seriesValues": [
         [
           2051,

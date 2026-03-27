@@ -47,13 +47,25 @@
     "name": "bau_macc-tra-truck_bev",
     "variants": [{ "name": "bau_macc-tra-truck_bev", "specs": null }]
   },
-  {
-    "name": "bau_macc-tra-truck_fcv",
-    "variants": [{ "name": "bau_macc-tra-truck_fcv", "specs": null }]
-  },
-  {
+    {
     "name": "bau_macc-tra-truck_hev",
     "variants": [{ "name": "bau_macc-tra-truck_hev", "specs": null }]
+  },
+  {
+    "name": "bau_macc-rsd-dh",
+    "variants": [{ "name": "bau_macc-rsd-dh", "specs": null }]
+  },
+  {
+    "name": "bau_macc-rsd-rfhp",
+    "variants": [{ "name": "bau_macc-rsd-rfhp", "specs": null }]
+  },
+  {
+    "name": "bau_macc-srv-dh",
+    "variants": [{ "name": "bau_macc-srv-dh", "specs": null }]
+  },
+  {
+    "name": "bau_macc-srv-hp",
+    "variants": [{ "name": "bau_macc-srv-hp", "specs": null }]
   },
   {
     "name": "bau_macc-tra-wem-car_phev",
