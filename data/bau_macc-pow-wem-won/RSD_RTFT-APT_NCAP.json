@@ -2,74 +2,6 @@
   "name": "bau_macc-pow-wem-won",
   "data": [
     {
-      "seriesName": "R-RTFT-Apt_D",
-      "seriesValues": [
-        [
-          2019,
-          0.0
-        ],
-        [
-          2020,
-          0.0
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
-      "seriesName": "R-RTFT-Apt_E",
-      "seriesValues": [
-        [
-          2019,
-          6.33460282931962
-        ],
-        [
-          2020,
-          1.18102778329959
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
-      "seriesName": "R-RTFT-Apt_F",
-      "seriesValues": [
-        [
-          2019,
-          3.03141320179314
-        ],
-        [
-          2020,
-          0.565178985630187
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
-      "seriesName": "R-RTFT-Apt_G",
-      "seriesValues": [
-        [
-          2019,
-          3.73941288935774
-        ],
-        [
-          2020,
-          0.697179002976198
-        ],
-        [
-          2051,
-          0.0
-        ]
-      ]
-    },
-    {
       "seriesName": "R-RTFT-Apt_B3",
       "seriesValues": [
         [
@@ -80,6 +12,42 @@
     },
     {
       "seriesName": "R-RTFT-Apt_C",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_D",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_E",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_F",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_G",
       "seriesValues": [
         [
           2051,
