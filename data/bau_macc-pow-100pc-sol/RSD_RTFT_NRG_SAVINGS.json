@@ -1,0 +1,23 @@
+{
+  "name": "bau_macc-pow-100pc-sol",
+  "data": [
+    {
+      "seriesName": "RSDSH_Apt-G",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "RSDSH_Att-G",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    }
+  ]
+}

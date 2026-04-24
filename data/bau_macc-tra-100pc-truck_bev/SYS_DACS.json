@@ -1,0 +1,26 @@
+{
+  "name": "bau_macc-tra-100pc-truck_bev",
+  "data": [
+    {
+      "seriesName": "TOTCO2",
+      "seriesValues": [
+        [
+          2048,
+          0.0
+        ],
+        [
+          2049,
+          0.0
+        ],
+        [
+          2050,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    }
+  ]
+}

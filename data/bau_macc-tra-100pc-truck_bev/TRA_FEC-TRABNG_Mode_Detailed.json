@@ -1,0 +1,14 @@
+{
+  "name": "bau_macc-tra-100pc-truck_bev",
+  "data": [
+    {
+      "seriesName": "DMD_TRA-F-MTRUCK",
+      "seriesValues": [
+        [
+          2027,
+          0.0
+        ]
+      ]
+    }
+  ]
+}
