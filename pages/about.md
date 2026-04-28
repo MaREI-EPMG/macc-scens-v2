@@ -7,7 +7,7 @@ It summarises the cost and emissions impact of mitigation options across electri
 
 The energy iMACC ranks mitigation measures by:
 
-- **Abatement potential** (cumulative MtCO2e reduced vs BAU, 2026–2050)
+- **Abatement potential** (cumulative MtCO2e reduced vs Baseline, 2026–2050)
 - **Marginal abatement cost** (EUR/tCO2e), calculated as total system cost change divided by total emissions reduction
 
 The tool is comparative: it shows scale and relative cost-effectiveness of measures under consistent assumptions. It is not a deployment forecast and does not by itself represent implementation feasibility, distributional effects, or fiscal impacts.
@@ -16,7 +16,7 @@ The tool is comparative: it shows scale and relative cost-effectiveness of measu
 
 The energy analysis uses the **TIMES-Ireland Model (TIM)**, a whole-energy-system optimisation model.
 
-- A **BAU counterfactual** is used as reference (no additional mitigation deployment beyond current levels)
+- A **Baseline counterfactual** is used as reference (no additional mitigation deployment beyond current levels)
 - Policy scenarios are run with emissions constraints and technology pathways
 - For each measure, the study compares cumulative emissions and total system costs against BAU
 
@@ -24,7 +24,7 @@ System costs include investment and operating effects over 2026–2050.
 
 ## Energy scenario descriptions
 
-### BAU (reference)
+### Baseline (reference)
 
 Counterfactual baseline used only for comparison. It is not intended as a projection of expected emissions.
 
