@@ -1,19 +1,6 @@
 {
-  "name": "bau_macc-pow-100pc-bioccs",
+  "name": "bau_macc-pow-50pc-bioccs",
   "data": [
-    {
-      "seriesName": "R-RTFT-Apt_G",
-      "seriesValues": [
-        [
-          2020,
-          0.0
-        ],
-        [
-          2051,
-          11.7408688079773
-        ]
-      ]
-    },
     {
       "seriesName": "R-RTFT-Apt_B3",
       "seriesValues": [
@@ -52,6 +39,15 @@
     },
     {
       "seriesName": "R-RTFT-Apt_F",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_G",
       "seriesValues": [
         [
           2051,

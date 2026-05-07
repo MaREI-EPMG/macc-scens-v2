@@ -1,23 +1,6 @@
 {
-  "name": "bau_macc-pow-100pc-won",
+  "name": "bau_macc-pow-50pc-won",
   "data": [
-    {
-      "seriesName": "R-RTFT-Apt_G",
-      "seriesValues": [
-        [
-          2019,
-          0.0
-        ],
-        [
-          2020,
-          0.0
-        ],
-        [
-          2051,
-          3.11578651612977e-06
-        ]
-      ]
-    },
     {
       "seriesName": "R-RTFT-Apt_B3",
       "seriesValues": [
@@ -56,6 +39,15 @@
     },
     {
       "seriesName": "R-RTFT-Apt_F",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_G",
       "seriesValues": [
         [
           2051,

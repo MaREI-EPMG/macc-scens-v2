@@ -1,17 +1,8 @@
 {
-  "name": "bau_macc-pow-100pc-bioccs",
+  "name": "bau_macc-pow-50pc-bioccs",
   "data": [
     {
       "seriesName": "RSDSH_Apt-G",
-      "seriesValues": [
-        [
-          2051,
-          0.254969316411573
-        ]
-      ]
-    },
-    {
-      "seriesName": "RSDSH_Att-G",
       "seriesValues": [
         [
           2051,
@@ -20,7 +11,7 @@
       ]
     },
     {
-      "seriesName": "RSDSH_Det-G",
+      "seriesName": "RSDSH_Att-G",
       "seriesValues": [
         [
           2051,
