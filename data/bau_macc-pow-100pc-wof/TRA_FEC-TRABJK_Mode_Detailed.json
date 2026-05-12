@@ -5,6 +5,14 @@
       "seriesName": "DMD_TRA-R-AVIDOM",
       "seriesValues": [
         [
+          2023,
+          0.0
+        ],
+        [
+          2043,
+          0.0
+        ],
+        [
           2044,
           0.0
         ],
@@ -41,6 +49,14 @@
     {
       "seriesName": "DMD_TRA-R-AVIINT",
       "seriesValues": [
+        [
+          2023,
+          0.0
+        ],
+        [
+          2043,
+          0.0
+        ],
         [
           2044,
           0.0
