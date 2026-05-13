@@ -140,12 +140,16 @@
     "variants": [{ "name": "bau_macc-tra-100pc-truck_bev", "specs": null }]
   },
   {
-    "name": "bau_macc-rsd-rfhp-100pc",
-    "variants": [{ "name": "bau_macc-rsd-rfhp-100pc", "specs": null }]
-  },
-  {
     "name": "bau_macc-ind-elc-100pc",
     "variants": [{ "name": "bau_macc-ind-elc-100pc", "specs": null }]
+  },
+  {
+    "name": "bau_macc-srv-50pc-DH",
+    "variants": [{ "name": "bau_macc-srv-50pc-DH", "specs": null }]
+  },
+  {
+    "name": "bau_macc-srv-50pc-HP",
+    "variants": [{ "name": "bau_macc-srv-50pc-HP", "specs": null }]
   }
 ]
 
